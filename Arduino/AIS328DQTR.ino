@@ -1,7 +1,7 @@
 // Distributed with a free-will license.
 // Use it any way you want, profit or free, provided it fits in the licenses of its associated works.
-// A3G4250DQTR
-// This code is designed to work with the A3G4250DQTR_I2CS I2C Mini Module available from ControlEverything.com.
+// AIS328DQTR
+// This code is designed to work with the AIS328DQTR_I2CS I2C Mini Module available from ControlEverything.com.
 // https://www.controleverything.com/content/Accelorometer?sku=AIS328DQTR_I2CS#tabs-0-product_tabset-2
 
 #include<Wire.h>
