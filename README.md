@@ -62,4 +62,17 @@ Verify and flash the code on your Photon. Code output is shown in logs at dashbo
 
 https://dashboard.particle.io/user/logs
 
+
+## C
+
+Download (or git pull) the code in Beaglebone Black.
+
+Compile the c program.
+```cpp
+$>gcc AIS328DQTR.c -o AIS328DQTR
+```
+Run the c program.
+```cpp
+$>./AIS328DQTR
+```
 #####The code output is raw value of acceleration in X, Y and Z Axis.
