@@ -100,7 +100,7 @@ void main()
 	}
 
 	// Output data to screen
-	printf("Rotation in X-axis : %d \n", xAccl);
-	printf("Rotation in Y-axis : %d \n", yAccl);
-	printf("Rotation in Z-axis : %d \n", zAccl);
+	printf("Acceleration in X-axis : %d \n", xAccl);
+	printf("Acceleration in Y-axis : %d \n", yAccl);
+	printf("Acceleration in Z-axis : %d \n", zAccl);
 }
